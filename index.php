@@ -1,7 +1,7 @@
 <?php session_start();
 include_once "topo.php";
-//$login = "admin";
-//$senha = "admin";
+$login = "admin";
+$senha = "admin";
 //setcookie("login",'admin');
 //setcookie("senha",'admin');
 	
